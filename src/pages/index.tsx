@@ -3,7 +3,6 @@ import { PROPERTYLISTINGSAMPLE } from "../../constants";
 import { PropertyProps } from "../../interfaces";
 import Image from "next/image";
 
-
 const filters = [
   "Top Villa",
   "Self Checkin",
